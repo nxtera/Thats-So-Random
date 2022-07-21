@@ -10,22 +10,23 @@ It was time to put the long hours of learning JavaScript to use and create fresh
 Spent many hours reviewing the past materials and additional resources on the web to create a JavaScript based password generator.
 
 ### What did I learn?
+How to apply the basic concepts of JavaScript together in code that works and makes sense as well as learning new concenpts such as Math.floor and Math.random.
 
-How to apply the basic concepts of JavaScript together to meet the assessment criteria.
 
 ## Usage.
 
 To view the webpage follow the link 
-[
-(https://nxtera.github.io/ACs-Portfolio-is-ACE/)
+
+(https://nxtera.github.io/Thats-So-Random/)
 
 Screenshot of live page (sample)
 
-![ScreenShot](assets/images/Screenshot.PNG)
+![ScreenShot](assets/images/screenshot.PNG)
  
    
 ## Credits
 Created readme with help from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
 
 ## License
 Please refer to UNLICENSE.txt
