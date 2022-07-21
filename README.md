@@ -15,7 +15,7 @@ How to apply the basic concepts of JavaScript together in code that works and ma
 
 ## Usage.
 
-To view the webpage follow the link 
+To view the webpage follow the link and be sure to follow all the user prompts.
 
 (https://nxtera.github.io/Thats-So-Random/)
 
